@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * isalpha - function that print lower and upper alphabet
+ * _isalpha - function that print lower and upper alphabet
  *
  * @c: parameter to br printed
  *
